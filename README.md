@@ -1,4 +1,4 @@
-# WELCOME TO PROGRAMMING
+# WELCOME
 
 # Todo-list-using-React.js
 using state, props, useEffect and useState hooks
